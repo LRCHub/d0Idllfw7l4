@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Bummerland",
+  "base_artist": "AJR",
+  "createdAt": "2026-04-05T18:52:43.275147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bummerland",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/01_Bummerland_AJR.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bummerland",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/02_Bummerland_AJR.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bummerland",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/03_Bummerland_AJR.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Alice In Bummerland",
+      "artist": "TIMMS",
+      "has_synced": true,
+      "path": "select/04_Alice_In_Bummerland_TIMMS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bummerland [Explicit]",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/05_Bummerland_[Explicit]_AJR.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bummerland",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/06_Bummerland_AJR.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "AJR - Bummerland (Official Video)",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/07_AJR_-_Bummerland_(Official_Video)_AJR.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "AJR - Bummerland",
+      "artist": "AJR",
+      "has_synced": true,
+      "path": "select/08_AJR_-_Bummerland_AJR.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bummerland",
+      "artist": "AJR",
+      "has_synced": false,
+      "path": "select/pl_01_Bummerland_AJR.txt"
+    }
+  ]
+}
